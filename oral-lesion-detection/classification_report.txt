@@ -1,0 +1,11 @@
+              precision    recall  f1-score   support
+
+         CaS       0.17      0.50      0.26         8
+         CoS       0.00      0.00      0.00         8
+         Gum       0.18      0.29      0.22         7
+          OC       0.00      0.00      0.00         6
+          OT       0.00      0.00      0.00         7
+
+    accuracy                           0.17        36
+   macro avg       0.07      0.16      0.10        36
+weighted avg       0.07      0.17      0.10        36

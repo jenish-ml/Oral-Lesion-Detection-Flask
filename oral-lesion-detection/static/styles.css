@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;  /* Set the height to fill the viewport */
+    border: 10px solid #000; /* Example border to visualize the box model */
+    padding: 20px;           /* Padding inside the box */
+    margin: 20px auto;       /* Margin around the container */
+    background-image: url('4.jpg');
+    background-repeat: no-repeat;       /* Prevent the image from repeating */
+    background-size: cover;             /* Make the background cover the entire container */
+    background-position: center;        /* Center the background image */
+    background-attachment: fixed;       /* Fix the background image so it doesn’t scroll */
+}
